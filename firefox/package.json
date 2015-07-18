@@ -1,0 +1,12 @@
+{
+  "title": "HabiTRELLO",
+  "name": "habitrello",
+  "version": "0.0.1",
+  "description": "Extension to connect Trello with HabitRPG To-Dos List",
+  "main": "index.js",
+  "author": "Luigi Guevara <@killua99>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
